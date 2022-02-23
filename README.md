@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá.
 
-<!--
-**WesleyAzevedoGomes/WesleyAzevedoGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Wesley Azevedo
 
-Here are some ideas to get you started:
+Estudante Front-end / Back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyAzevedoGomes&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAzevedoGomes&layout=compact&theme=dark"/>
+</div>  
+
+### Let's get connected
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-azevedo-b02800232/)
+
+### 🛠️ Tecnologias que tenho stack
+
+<div>
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+### 🧠 Tecnologias que pretendo estudar
+
+<div>
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="BootStrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
