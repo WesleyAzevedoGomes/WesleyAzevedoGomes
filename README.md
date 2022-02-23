@@ -9,7 +9,7 @@ Estudante Front-end / Back-end
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAzevedoGomes&layout=compact&theme=dark"/>
 </div>  
 
-### Let's get connected
+### 🔗 Conecte-se comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-azevedo-b02800232/)
 
