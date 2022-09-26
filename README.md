@@ -2,7 +2,7 @@
 
 Eu sou o Wesley Azevedo
 
-Estudante Front-end / Back-end
+Estudante Front-end 
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=WesleyAzevedoGomes&show_icons=true&theme=dark"/>
