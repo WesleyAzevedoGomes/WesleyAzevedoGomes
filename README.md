@@ -2,7 +2,6 @@
 
 Eu sou o Wesley Azevedo
 
-Estudante Front-end 
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=WesleyAzevedoGomes&show_icons=true&theme=dark"/>
@@ -20,12 +19,13 @@ Estudante Front-end
   <img align="center" alt="CSS3" height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 </div>
 
 ### 🧠 Tecnologias que pretendo estudar
 
 <div>
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
   <img align="center" alt="NodeJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
