@@ -1,26 +1,23 @@
 # 👋 Olá, eu sou o Wesley Azevedo
 
-[![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)]()
-[![Spring](https://img.shields.io/badge/Spring-Boot-green?logo=springboot)]()
-[![Node.js](https://img.shields.io/badge/Node.js-JavaScript-success?logo=node.js)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]()
+[![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)](https://www.java.com/)
+[![Spring](https://img.shields.io/badge/Spring-Boot-green?logo=springboot)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-JavaScript-success?logo=node.js)](https://nodejs.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/WesleyAzevedoGomes)
 
 ---
 
-# 🇧🇷 PT-BR
+# 🇧🇷 Sobre Mim
 
-## 🚀 Sobre Mim
-
-Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO** e tecnologias de nuvem.  
+Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO** e **tecnologias de nuvem**.  
 
 ---
 
 ## 📚 O que estou estudando
-
-- ☕ Fundamentos de Java & POO (herança, polimorfismo, classes abstratas)  
-- 🧱 Arquitetura backend & design de APIs REST  
+- ☕ Fundamentos de Java & POO  
+- 🧱 Arquitetura backend & APIs REST  
 - 💻 Node.js (stack atual de trabalho)  
-- 📘 Projetos de estudo focados em lógica, estrutura e clean code.
+- 📘 Projetos de estudo focados em lógica, estrutura e clean code  
 
 ---
 
@@ -28,9 +25,9 @@ Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO**
 
 ### ☁️ AWS Cloud
 - Aprender fundamentos  
-- Tirar certificação **AWS Cloud Practitioner**  
-- Estudar arquitetura  
-- Tentar certificação **AWS Solutions Architect**
+- Conquistar a certificação **AWS Cloud Practitioner**  
+- Aprofundar conhecimentos em arquitetura  
+- Tentar a certificação **AWS Solutions Architect**  
 
 ### ☕ Java & Spring Boot
 - Dominar Java de ponta a ponta  
@@ -39,47 +36,23 @@ Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO**
 - Tornar-me totalmente confiante como backend Java  
 
 ### 🧩 Carreira
-- Evoluir lógica e resolução de problemas  
-- Construir um portfólio sólido em Java  
-- Avançar como desenvolvedor backend  
+- Evoluir raciocínio lógico  
+- Criar um portfólio forte em Java  
+- Avançar profissionalmente como backend developer  
 
 ---
 
-# 🇺🇸 EN-US
+# 📊 Minhas Estatísticas
 
-## 🚀 About Me
+<div align="center">
 
-I'm a backend developer improving my skills in **Java**, **OOP**, and cloud technologies.  
+<!-- GitHub Stats -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyAzevedoGomes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<!-- Top Languages -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAzevedoGomes&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📚 What I'm Learning
-
-- ☕ Java fundamentals & OOP (inheritance, polymorphism, abstract classes)  
-- 🧱 Backend architecture & REST API design  
-- 💻 Node.js (current work stack)  
-- 📘 Study projects focused on logic, structure and clean code  
-
----
-
-## 🎯 Goals for 2026
-
-### ☁️ AWS Cloud
-- Learn fundamentals  
-- Earn **AWS Cloud Practitioner** certification  
-- Study architecture  
-- Attempt **AWS Solutions Architect** certification  
-
-### ☕ Java & Spring Boot
-- Master Java end-to-end  
-- Build professional RESTful APIs  
-- Learn Spring Boot deeply  
-- Become fully confident with Java backend  
-
-### 🧩 Career
-- Improve problem-solving  
-- Build a strong Java portfolio  
-- Grow as a backend developer  
+</div>
 
 ---
 
