@@ -23,17 +23,17 @@ Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO**
 
 ## 🎯 Objetivos para 2026
 
+### ☕ Java & Spring Boot
+- Dominar Java de ponta a ponta  
+- Construir APIs REST profissionais  
+- Aprender Spring Boot profundamente  
+- Tornar-me totalmente confiante como backend Java
+  
 ### ☁️ AWS Cloud
 - Aprender fundamentos  
 - Conquistar a certificação **AWS Cloud Practitioner**  
 - Aprofundar conhecimentos em arquitetura  
 - Tentar a certificação **AWS Solutions Architect**  
-
-### ☕ Java & Spring Boot
-- Dominar Java de ponta a ponta  
-- Construir APIs REST profissionais  
-- Aprender Spring Boot profundamente  
-- Tornar-me totalmente confiante como backend Java  
 
 ### 🧩 Carreira
 - Evoluir raciocínio lógico  
