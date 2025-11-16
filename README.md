@@ -1,65 +1,88 @@
 # 👋 Hi, I'm Wesley Azevedo
 
-I'm a software development student focused on building strong fundamentals in **Java**, **Object-Oriented Programming (OOP)**, and backend development.  
-I use GitHub to track my learning journey and practice real programming concepts through small but meaningful projects.
+[![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)]()
+[![Spring](https://img.shields.io/badge/Spring-Boot-green?logo=springboot)]()
+[![Node.js](https://img.shields.io/badge/Node.js-JavaScript-success?logo=node.js)]()
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]()
 
 ---
+
+# 🇺🇸 EN-US
 
 ## 🚀 About Me
 
-- 🎓 Learning **Java** (POO, herança, polimorfismo, classes abstratas, listas, enums)
-- 📚 Currently studying with **Nelio Alves’ Java course**
-- 🧠 Interested in backend development and improving problem-solving skills
-- 📈 Always aiming to write clean, organized and maintainable code
-- 🛠 Working on multiple practice projects to strengthen my foundations
+I'm a backend developer improving my skills in **Java**, **OOP**, and **cloud technologies**.  
+I currently work with **JavaScript/Node.js**, but I'm transitioning to Java to reach a more advanced level in API development and backend architecture.
 
 ---
 
-## 🧩 Technologies & Tools
+## 📚 What I'm Learning
 
-- **Java (POO)**  
-- IntelliJ IDEA  
-- Git & GitHub  
-- Basic SQL  
-- JavaScript (início de estudos)  
-
----
-
-## 📌 What I'm Practicing
-
-- Clean code  
-- Project structure and organization  
-- Creating and documenting small study projects  
-- Version control with Git  
-- Building logic and thinking like a developer  
-- Exercícios reais baseados em cursos e materiais didáticos  
+- ☕ Java fundamentals & OOP (inheritance, polymorphism, abstract classes)  
+- 🧱 Backend architecture & REST API design  
+- 💻 Node.js (current work stack)  
+- 📘 Study projects focusing on logic, structure and clean code  
 
 ---
 
-## 📂 Featured Study Projects
+## 🎯 Goals for 2026
 
-- 🧮 **Tax Calculator** – OOP project using inheritance, abstract classes and polymorphism  
-- 📦 **Order Service System** – project using enums, dates, composition and lists  
-- 📊 **Java Exercises** – logic, arrays, lists and beginner algorithms  
+### ☁️ AWS Cloud
+- Learn fundamentals  
+- Earn **AWS Cloud Practitioner** certification  
+- Study architecture  
+- Attempt **AWS Solutions Architect** certification  
 
-*(New projects coming as I progress!)*
+### ☕ Java & Spring Boot
+- Master Java end-to-end  
+- Build professional RESTful APIs  
+- Learn Spring Boot deeply  
+- Become fully confident with backend in Java  
+
+### 🧩 Career
+- Improve problem-solving  
+- Build a strong Java portfolio  
+- Advance as a backend developer  
+
+---
+
+# 🇧🇷 PT-BR
+
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO** e tecnologias de nuvem. 
 
 ---
 
-## 🎯 Goals for 2025
+## 📚 O que estou estudando
 
-- Dominar os fundamentos do Java  
-- Concluir projetos estruturados em OOP  
-- Evoluir para estruturas mais avançadas (interfaces, exceções, arquivos, JDBC)  
-- Criar um portfólio forte com projetos reais  
-- Conseguir minha primeira oportunidade como desenvolvedor Júnior  
-
----
-
-## 📫 Contact
-
-You can reach me through GitHub or add more contact info here if you want later.
+- ☕ Fundamentos de Java & POO (herança, polimorfismo, classes abstratas)  
+- 🧱 Arquitetura backend & REST APIs  
+- 💻 Node.js (stack atual de trabalho)  
+- 📘 Projetos de estudo focados em lógica, estrutura e clean code  
 
 ---
+
+## 🎯 Objetivos para 2026
+
+### ☁️ AWS Cloud
+- Aprender fundamentos  
+- Tirar certificação **AWS Cloud Practitioner**  
+- Estudar arquitetura  
+- Tentar a certificação **AWS Solutions Architect**  
+
+### ☕ Java & Spring Boot
+- Dominar Java de ponta a ponta  
+- Construir APIs REST profissionais  
+- Aprender Spring Boot de forma aprofundada  
+- Tornar-se totalmente confiante como backend em Java  
+
+### 🧩 Carreira
+- Evoluir lógica e resolução de problemas  
+- Criar um portfólio forte em Java  
+- Avançar como desenvolvedor backend  
+
+👉 *Always learning. Always improving.*  
 
 💡 *“The only way to learn to program is by programming.”*  
