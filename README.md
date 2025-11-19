@@ -56,4 +56,4 @@ Sou um desenvolvedor backend aprimorando minhas habilidades em **Java**, **POO**
 
 ---
 
-👉 *Always learning. Always improving.*  
+👾*Always learning. Always improving.*  
