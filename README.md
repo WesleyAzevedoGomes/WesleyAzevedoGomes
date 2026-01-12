@@ -42,12 +42,4 @@ Continuo aprimorando conceitos de Java e POO para manter uma base sólida de ló
 
 ---
 
-# 📊 Minhas Estatísticas
-
-![GitHub Stats](https://img.shields.io/badge/GitHub-WesleyAzevedoGomes-181717?logo=github)
-
-
-
----
-
 👾*Always learning. Always improving.*  
