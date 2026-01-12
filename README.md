@@ -45,9 +45,13 @@ Continuo aprimorando conceitos de Java e POO para manter uma base sólida de ló
 # 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyAzevedoGomes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAzevedoGomes&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleyAzevedoGomes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAzevedoGomes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
 
 
 ---
