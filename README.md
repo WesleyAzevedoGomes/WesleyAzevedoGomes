@@ -1,45 +1,34 @@
-# 👋 Olá, eu sou o Wesley Azevedo
+# Wesley Azevedo
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-Backend-success?logo=node.js)](https://nodejs.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/WesleyAzevedoGomes)
+**Backend Developer** · Belo Horizonte, MG
 
----
-
-# 🇧🇷 Sobre Mim
-
-Sou um desenvolvedor backend em transição de foco para **JavaScript/TypeScript**, fortalecendo minha base em **Node.js**, **APIs REST** e **arquitetura backend**.  
-Continuo aprimorando conceitos de Java e POO para manter uma base sólida de lógica.
+Desenvolvedor backend com foco em **JavaScript/TypeScript**, atuando com Node.js, NestJS e APIs REST no desenvolvimento de integrações entre sistemas e automação de processos de negócio. Tenho experiência com mais de 15 ERPs, CRMs e plataformas do mercado.
 
 ---
 
-## 📚 O que estou estudando
-- 🟨 **JavaScript moderno (ES6+), TypeScript**
-- 🟩 **Node.js + padrões de projeto** para backend
-- 📘 Projetos de estudo focados em arquitetura, organização e clean code
+## Stack principal
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-success?logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-Framework-red?logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 
 ---
 
-## 🎯 Objetivos para 2026
+## O que eu faço
 
-### 🟨 JavaScript / TypeScript
-- Dominar JS/TS para backend  
-- Criar APIs REST robustas com Node.js  
-- Aprofundar padrões como **SOLID**, **Clean Architecture**, **DDD**  
-- Desenvolver projetos profissionais para o portfólio  
-
-### ☁️ AWS Cloud
-- Estudar fundamentos  
-- Conquistar a certificação **AWS Cloud Practitioner**  
-- Evoluir para arquitetura de nuvem  
-- Buscar a certificação **AWS Solutions Architect**  
-
-### 🧩 Carreira
-- Evoluir raciocínio lógico  
-- Criar um portfólio forte em JS/TS  
-- Avançar profissionalmente como backend developer  
+- **APIs REST** — construção e manutenção com Node.js, TypeScript e NestJS
+- **Integrações de sistemas** — ERPs, CRMs e plataformas externas
+- **Automação de processos** — fluxos de negócio
+- **Banco de dados** — modelagem e consultas em PostgreSQL
 
 ---
 
-👾*Always learning. Always improving.*  
+## Aprofundando em 2026
+
+- **Arquitetura backend** — SOLID, Clean Architecture, DDD
+- **Portfólio** — projetos práticos com foco em qualidade de código e boas práticas
+
+*Always learning. Always improving.*
